@@ -1,9 +1,25 @@
-# ANIVERSÁRIO
+### Requisitos Funcionais:
 
-# FESTA DE ANIVERSÁRIO
+1. ANIVERSÁRIO(Requisito Funcional): O evento que precisa ser organizado.
+2. FESTA DE ANIVERSÁRIO (Requisito Funcional): Especifica que o aniversário será comemorado com uma festa.
+3. DATA: 22/03 (Requisito Funcional): Define a data em que a festa de aniversário deve ocorrer.
+4. PRESENTE: NOTA 10 NA MATÉRIA DESIGN DE SOFTWARE(Requisito Funcional): Estabelece uma condição de sucesso ou uma meta associada ao aniversário.
 
-# DATA: 22/03
+### Requisitos Não-Funcionais:
 
-# PRESENTE: NOTA 10 NA MATÉRIA
+1. LOCAL: Salão de Festas do Condomínio (Requisito Não-Funcional): Especifica onde o evento ocorrerá, similar a uma restrição de infraestrutura.
+2. DURAÇÃO: 4 Horas (Requisito Não-Funcional): Define uma restrição temporal para a duração do evento.
+3. SEGURANÇA: Contratar Segurança Privada (Requisito Não-Funcional): Determina uma medida de segurança a ser implementada durante o evento.
 
-# NO ANIVERSÁRIO: PULA-PULA, ALGODÃO DOCE, SOM AUTOMOTIVO, DJ, BOLO E DOCES.
+### Design de Software (ou Desenho do Evento):
+
+1. NO ANIVERSÁRIO: TOURO MECÂNICO, CHURRASCO, DUPLA SERTANEJA, SOM AUTOMOTIVO, DJ, BOLO E DOCES (Design de Software): Descreve os elementos e atividades que comporão a festa.
+2. TEMÁTICA DA FESTA: Festa à fantasia (Design de Software): Define o tema da festa, influenciando a decoração e as atividades.
+3. ORGANIZAÇÃO DAS ATIVIDADES: Touro mecânico e dupla sertaneja às 14h, DJ e som automotivo às 16h (Design de Software): Estabelece a sequência e o cronograma das atividades durante o evento.
+4. MENU: Bolo de Chocolate, Brigadeiros, Cachorro-Quente (Design de Software): Detalha os itens do cardápio que serão servidos na festa.
+
+### Explicação:
+
+- Requisitos Funcionais: São os requisitos que descrevem o que deve ser feito, como o planejamento e organização do evento.
+- Requisitos Não-Funcionais: Especificam as restrições e qualidades que o evento deve ter, como local, duração, segurança e acessibilidade.
+- Design de Software: Descreve como o evento será estruturado e executado, incluindo o cronograma, as atividades e os detalhes temáticos.
